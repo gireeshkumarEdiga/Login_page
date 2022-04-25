@@ -1,0 +1,31 @@
+{
+  "details": [
+    {
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "egireeshkumar99@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12334",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "firstname": "manju",
+      "lastname": "bv",
+      "email": "egireeshkumar@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "status": "false",
+      "id": 2
+    },
+    {
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "egireeshkumar99@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "status": "false",
+      "id": 3
+    }
+  ]
+}
